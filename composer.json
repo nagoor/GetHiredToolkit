@@ -1,0 +1,7 @@
+{
+    "name": "nagoor/GetHiredToolkit",
+    "description": "test package",
+    "require": {
+        "php": "^7.2"
+    }
+}
